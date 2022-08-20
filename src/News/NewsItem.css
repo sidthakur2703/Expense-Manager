@@ -1,0 +1,12 @@
+.news-item{
+
+    padding:20px;
+    border:1px solid;
+    margin-bottom:20px ;
+    background-color: aliceblue;
+    align-items: center;
+}
+
+.news-img{
+    width: 100%;
+}

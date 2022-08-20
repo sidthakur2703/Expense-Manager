@@ -1,0 +1,26 @@
+ul.nbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #535353;
+  }
+  
+  li.nbar {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    font-size: 15px;
+    text-align: center;
+    padding: 14px 16px;
+    border-radius: 30%;
+    text-decoration: none;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  li a:hover {
+    background-color: #030303;
+  }
